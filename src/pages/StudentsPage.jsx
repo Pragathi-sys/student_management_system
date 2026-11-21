@@ -1,4 +1,4 @@
-import StudentTable from '../components/StudentTable';
+import StudentTable from '../Components/StudentTable';
 export default function StudentsPage({ students, onDelete }) {
 // Pass the student data and delete handler down to the table component.
 return (
